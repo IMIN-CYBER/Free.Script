@@ -58,7 +58,7 @@ pkg install python git -y
 
 pkg install python-pip
 
-git clone https://github.com/Itsmeafriliyan/Elit
+git clone https://github.com/IMIN-CYBER/Free.Script
 
 cd Elit
 
